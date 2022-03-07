@@ -6,7 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://reflex.hopledge.fr/reflex-content/git/</loc>
+         <loc>https://reflex.hopledge.fr/reflex-content/LICENCE/</loc>
+         <lastmod>2022-03-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/reflex/</loc>
+         <lastmod>2022-03-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Outils/git/</loc>
          <lastmod>2022-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
