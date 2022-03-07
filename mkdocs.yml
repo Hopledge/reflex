@@ -15,9 +15,8 @@ theme:
   name: material
   font: false
   language: en
-  logo: assets/pictures/auto-fix.svg
-  favicon: assets/pictures/auto-fix.ico
   icon:
+    logo: fontawesome/solid/wand-magic-sparkles
     repo: fontawesome/brands/github
   custom_dir: overrides
   features:
