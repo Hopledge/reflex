@@ -1,0 +1,3 @@
+[submodule "docs/reflex-content"]
+	path = docs/reflex-content
+	url = https://github.com/Hopledge/reflex-content.git

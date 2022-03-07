@@ -1,0 +1,86 @@
+# Identity
+site_name: Hopledge Reflex
+site_url: https://reflex.hopledge.fr/
+site_author: Hopledge Reflex contributors
+site_description: >-
+  Already in a crisis ? Adopt reflex cheats
+
+# Git
+repo_name: Hopledge/reflex-content
+repo_url: https://gitlab.com/Hopledge/reflex-content
+edit_uri: edit/master/
+
+# Theme
+theme:
+  name: material
+  font: false
+  language: en
+  logo: assets/pictures/auto-fix.svg
+  favicon: assets/pictures/auto-fix.ico
+  icon:
+    repo: fontawesome/brands/github
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - toc.integrate
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Dark theme
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/weather-sunny
+        name: Light theme
+
+# Extra and social icons
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Hopledge_Labs
+      name: Proudly build by Hopledge Labs 💖
+    - icon: fontawesome/brands/github
+      link: https://gitlab.com/Hopledge/reflex-content
+      name: Content github repository
+  generator: false # Made with material theme
+copyright: CC BY-NC-SA 4.0
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+      prebuild_index: true
+  - minify:
+      minify_html: true
+      minify_js: true
+      htmlmin_opts:
+          remove_comments: true
+   # https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
+  - awesome-pages:
+      filename: .pages
+      strict: true
+  - git-revision-date
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - abbr
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
