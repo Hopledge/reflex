@@ -16,12 +16,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://reflex.hopledge.fr/reflex-content/reflex/</loc>
+         <loc>https://reflex.hopledge.fr/reflex-content/Attack/networks/scan/</loc>
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://reflex.hopledge.fr/reflex-content/Outils/git/</loc>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/reputation/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/Firewalls/iptables/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/Firewalls/nftables/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/Firewalls/ufw/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Misc/git/</loc>
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
