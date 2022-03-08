@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://reflex.hopledge.fr/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://reflex.hopledge.fr/reflex-content/</loc>
-         <lastmod>2022-03-07</lastmod>
+         <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/LICENCE/</loc>
-         <lastmod>2022-03-07</lastmod>
+         <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/reflex/</loc>
-         <lastmod>2022-03-07</lastmod>
+         <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Outils/git/</loc>
-         <lastmod>2022-03-07</lastmod>
+         <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
