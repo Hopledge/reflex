@@ -8,7 +8,7 @@ site_description: >-
 # Git
 repo_name: Hopledge/reflex-content
 repo_url: https://github.com/Hopledge/reflex-content
-edit_uri: edit/master/
+edit_uri: edit/main/
 
 # Theme
 theme:
@@ -73,6 +73,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - pymdownx.smartsymbols
+  - pymdownx.b64
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
