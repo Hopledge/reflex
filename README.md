@@ -29,7 +29,9 @@ mkdocs serve
 Fetch all new content from submodules
 
 ```bash
-git submodule update --remote
+cd docs/reflex-content
+git submodule init
+git checkout main
 ```
 
 Publish to github pages
