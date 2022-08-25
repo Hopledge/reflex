@@ -3,7 +3,7 @@ site_name: Hopledge Reflex
 site_url: https://reflex.hopledge.fr/
 site_author: Hopledge Reflex contributors
 site_description: >-
-  Already in a crisis ? Adopt reflex cheats
+  Already in a crisis ? Don't waste time, cheat
 
 # Git
 repo_name: Hopledge/reflex-content
@@ -69,6 +69,9 @@ markdown_extensions:
   - abbr
   - tables
   - admonition
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed
@@ -77,3 +80,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true

@@ -1,10 +1,14 @@
+
 tasks:
-  - before: pip install -r requirements.txt
-  - init: mkdocs build
-  - command: mkdocs serve
+  - init: pip install -r requirements.txt
+    command: mkdocs serve
 
 # Ports to expose on workspace startup
 ports:
   - port: 8000
     visibility: public
     onOpen: open-preview
+
+vscode:
+  extensions:
+    - DavidAnson.vscode-markdownlint
