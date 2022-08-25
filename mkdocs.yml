@@ -17,8 +17,9 @@ theme:
     text: Roboto
     code: Roboto Mono
   language: en
+  logo: assets/clover.png
+  favicon: assets/clover.png
   icon:
-    logo: fontawesome/solid/wand-magic-sparkles
     repo: fontawesome/brands/github
   custom_dir: overrides
   features:
