@@ -32,6 +32,7 @@ Fetch all new content from submodules
 cd docs/reflex-content
 git submodule init
 git checkout main
+git pull
 ```
 
 Publish to github pages
