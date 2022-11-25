@@ -91,6 +91,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/apache/</loc>
+         <lastmod>2022-11-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/nginx/</loc>
+         <lastmod>2022-11-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Misc/git/</loc>
          <lastmod>2022-11-25</lastmod>
          <changefreq>daily</changefreq>
