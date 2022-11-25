@@ -1,6 +1,6 @@
 
 tasks:
-  - init: pip install -r requirements.txt
+  - init: pipenv install
     command: mkdocs serve
 
 # Ports to expose on workspace startup

@@ -7,7 +7,7 @@
 Install requirements
 
 ```bash
-pip install -r requirements.txt
+pipenv install
 ```
 
 ## Build and serve
