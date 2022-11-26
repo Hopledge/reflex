@@ -32,6 +32,7 @@ theme:
     - header.autohide
     - toc.integrate
     - search.suggest
+    - content.code.annotate
   palette:
       scheme: slate
       primary: red
