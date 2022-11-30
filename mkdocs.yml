@@ -1,7 +1,7 @@
 # Identity
-site_name: Hopledge Reflex
+site_name: Reflex
 site_url: https://reflex.hopledge.fr/
-site_author: Hopledge Reflex contributors
+site_author:  Reflex contributors
 site_description: >-
   Already in a crisis ? Don't waste time, cheat
 
@@ -40,13 +40,6 @@ theme:
 
 # Extra and social icons
 extra:
-  social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/Hopledge_Labs
-      name: Proudly build by Hopledge Labs 💖
-    - icon: fontawesome/brands/github
-      link: https://gitlab.com/Hopledge/reflex-content
-      name: Content github repository
   generator: false # Made with material theme
 copyright: CC BY-NC-SA 4.0
 
