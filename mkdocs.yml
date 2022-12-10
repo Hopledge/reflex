@@ -46,8 +46,10 @@ copyright: CC BY-NC-SA 4.0
 # Plugins
 plugins:
   - search:
-      lang: en
-      prebuild_index: true
+      pipeline:
+        - stemmer
+        - trimmer
+        - stopWordFilter
   - minify:
       minify_html: true
       minify_js: true
