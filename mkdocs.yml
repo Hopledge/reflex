@@ -24,13 +24,11 @@ theme:
   custom_dir: overrides
   features:
     - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
-    - navigation.indexes
     - navigation.top
+    - navigation.tracking
     - header.autohide
-    - toc.integrate
+    - toc.follow
     - search.suggest
     - content.code.annotate
   palette:
@@ -84,3 +82,4 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.keys
+  - pymdownx.betterem
