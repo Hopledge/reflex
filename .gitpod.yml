@@ -1,6 +1,6 @@
 
 tasks:
-  - init: pipenv install
+  - init: pipenv install & pipenv shell
     command: mkdocs serve
 
 # Ports to expose on workspace startup
