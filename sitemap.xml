@@ -2,152 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://reflex.hopledge.fr/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/LICENCE/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/dorks/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/ftp/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/osint/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/ports_scan/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/redis/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/smb/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Attack/web/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/investigation/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/OS/bsd/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/OS/linux/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/OS/windows/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/application/malwares/analysis/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/application/malwares/reputation/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/firewalld/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/fortigate/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/iptables/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/nftables/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/stormshield/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/firewall/ufw/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/siem/linux/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/siem/splunk/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/siem/windows/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/apache/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/iis/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/nginx/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Defend/web/ssl/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://reflex.hopledge.fr/reflex-content/Misc/git/</loc>
-         <lastmod>2023-01-19</lastmod>
+         <lastmod>2023-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
