@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5452d63ac3fbc16d61ad29feb303c2322da7842eb97744bf34a3fdeba2a77395"
+            "sha256": "c32c1d6888aa3d17df6122edb8fcfd5b19c79a254aee85c002d38c7100cadcbd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -472,12 +472,12 @@
         },
         "pymdown-extensions": {
             "hashes": [
-                "sha256:508009b211373058debb8247e168de4cbcb91b1bff7b5e961b2c3e864e00b195",
-                "sha256:ef25dbbae530e8f67575d222b75ff0649b1e841e22c2ae9a20bad9472c2207dc"
+                "sha256:06042274876eb4267f12a389daf505eabaebc38bdca26725560c9afda5867549",
+                "sha256:fbb86243db9a681602e3b869deef000211c55d0261015a5cc41d6f34d2afc57f"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==10.1"
+            "version": "==10.2"
         },
         "pyquery": {
             "hashes": [
