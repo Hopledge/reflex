@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "58bedc86cb039baa34b94f187b1b9a6b4e0d28b11a795970259642d354af2129"
+            "sha256": "e52faa167a1bbc29333fe5188bc8b8a5192a194496988ea2522f545b3f78110c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -303,20 +303,20 @@
         },
         "mkdocs-material": {
             "hashes": [
-                "sha256:207c4ebc07faebb220437d2c626edb0c9760c82ccfc484500bd3eb30dfce988c",
-                "sha256:421adedaeaa461dcaf55b8d406673934ade3d4f05ed9819e4cc7b4ee1d646a62"
+                "sha256:794b81d74df4fd7dee952dd4502f7b6a7913a1fc56021e5f36f8e96eb20ffb25",
+                "sha256:82c2bdbdc8445854f400d12831a8b0f7602efaaead7b264ac3c45aa3aa240755"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==9.4.10"
+            "version": "==9.4.11"
         },
         "mkdocs-material-extensions": {
             "hashes": [
-                "sha256:0297cc48ba68a9fdd1ef3780a3b41b534b0d0df1d1181a44676fda5f464eeadc",
-                "sha256:f0446091503acb110a7cab9349cbc90eeac51b58d1caa92a704a81ca1e24ddbd"
+                "sha256:10c9511cea88f568257f960358a467d12b970e1f7b2c0e5fb2bb48cab1928443",
+                "sha256:adff8b62700b25cb77b53358dad940f3ef973dd6db797907c49e3c2ef3ab4e31"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==1.3"
+            "version": "==1.3.1"
         },
         "mkdocs-minify-plugin": {
             "hashes": [
@@ -367,11 +367,11 @@
         },
         "pygments": {
             "hashes": [
-                "sha256:1b37f1b1e1bff2af52ecaf28cc601e2ef7077000b227a0675da25aef85784bc4",
-                "sha256:e45a0e74bf9c530f564ca81b8952343be986a29f6afe7f5ad95c5f06b7bdf5e8"
+                "sha256:b27c2826c47d0f3219f29554824c30c5e8945175d888647acd804ddd04af846c",
+                "sha256:da46cec9fd2de5be3a8a784f434e4c4ab670b4ff54d605c4c2717e9d49c4c367"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.17.1"
+            "version": "==2.17.2"
         },
         "pymdown-extensions": {
             "hashes": [
