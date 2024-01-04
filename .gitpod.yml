@@ -1,14 +1,9 @@
-
 tasks:
-  - init: pipenv install
-    command: pipenv run mkdocs serve
+  - before: pipenv install && sudo dpkg-reconfigure -f noninteractive tzdata
+  - command: pipenv run mkdocs serve
 
 # Ports to expose on workspace startup
 ports:
   - port: 8000
     visibility: public
     onOpen: open-preview
-
-vscode:
-  extensions:
-    - DavidAnson.vscode-markdownlint
